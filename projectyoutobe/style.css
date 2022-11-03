@@ -1,0 +1,21 @@
+
+.images{
+    display: grid;
+    grid-gap:30px ;
+    grid-template-columns: repeat(auto-fill , minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit , minmax(400px, 1fr));
+    
+}
+
+.image-picture {
+    display: block;
+    width: 400px;
+}
+.images{
+    grid-template-columns:repeat(3,1fr) ;
+    imgcvo
+    
+    
+
+}
+    
